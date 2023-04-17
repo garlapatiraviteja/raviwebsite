@@ -94,7 +94,7 @@ def main_page():
 
     with st.container():
         st.write("---")
-        st.subheader("Work Experience")
+        st.subheader("Work  - Mindtree ")
         st.markdown(
             '''
             - Developed and maintained complex web applications using Python,..

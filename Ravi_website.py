@@ -23,7 +23,7 @@ st.markdown(hide_st_style,unsafe_allow_html=True)
 st.markdown("""
     <style>
         .stApp {
-        background: url("https://pps.whatsapp.net/v/t61.24694-24/319779783_525119986270612_1445455221244685298_n.jpg?ccb=11-4&oh=01_AdQ6ozlqURkzyWp0bPqGLaEqdFRuUKERW4FHuBI8Nv1hxg&oe=64096E68");
+        background: url("https://pps.whatsapp.net/v/t61.24694-24/321277760_1015178719380397_2786846362608647722_n.jpg?ccb=11-4&oh=01_AdSIhFQTXgoj55r6DNYUDgOg2geTOFste2dqwAsL8cmcxA&oe=644A1A9A");
         background-size: cover;
         }
     </style>""", unsafe_allow_html=True)
